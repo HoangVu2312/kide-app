@@ -21,10 +21,10 @@
   width: 100%;
   height: 100%;
   overflow-y: auto; 
-
+  position: relative;
 
   .top {
-    position: relative;
+    position: absolute;
     top: 0;
     min-width: 100vw;
     border-radius: 10px 10px 0 0;
